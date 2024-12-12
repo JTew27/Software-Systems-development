@@ -55,7 +55,7 @@ public class StreamTerminalOperationsExample {
 }
 
 
-//forEach:
+//forEach: prints eacb name in the list 
 //Reflection
 //Collection
 //Stream
@@ -63,11 +63,11 @@ public class StreamTerminalOperationsExample {
 //Sorting
 //State
 
-//collect (names starting with 'S'):
+//collect (names starting with 'S'): filters names starting with the letter S and collects them into a new list 
 //Stream
 //Structure
 //Sorting
 //State
 
-//reduce (concatenated names):
+//reduce (concatenated names)://concatenates all names into a single string 
 //Reflection Collection Stream Structure So...
