@@ -36,3 +36,13 @@ public class StreamIntermediateOperationsExample {
     }
 }
 
+//Intermediate Results:
+//STRUCTURE
+//STREAM
+//STATE
+//SORTING
+//Final Result:
+//SORTING
+//STATE
+//STREAM
+//STRUCTURE
